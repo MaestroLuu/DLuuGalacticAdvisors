@@ -9,6 +9,5 @@ export default function Section() {
                 <p>question 1</p>
             </div>
         </div>
-
     )
 }
