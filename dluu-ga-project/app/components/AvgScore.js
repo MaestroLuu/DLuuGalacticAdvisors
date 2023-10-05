@@ -12,7 +12,7 @@ export default function AvgScore(props) {
     // }
     return (
     <div>
-      <h1>{props.average}% Overall Insurability Score - {props.average}% - {Insurability}</h1>
+      <h1>{props.average}% Overall Insurability Score - {props.average}%</h1>
     </div>
   );
 }
